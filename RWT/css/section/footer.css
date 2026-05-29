@@ -1,0 +1,36 @@
+.footer {
+  background-color: #111827;
+  color: #ffffff;
+  padding: 48px 0;
+}
+
+.container {
+
+}
+
+.footer__content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+
+.footer__text {
+  color: #9ca3af;
+  font-size: 0.875rem;
+  line-height: 1.5;
+}
+
+.footer_social {
+ display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.footer__title{
+  color: #ffffff;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-right: 8px;
+}
